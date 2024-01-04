@@ -1,2 +1,2 @@
 # notepad
-React Porject of a notepad
+React Project of a notepad
